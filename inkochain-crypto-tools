@@ -1,0 +1,23 @@
+# INKochain Crypto Tools
+
+A collection of tools and scripts for interacting with INKochain blockchain.
+
+## Tools
+
+- wallet utilities
+- blockchain API scripts
+- transaction monitoring
+- token tracking
+
+## Languages
+
+- Python
+- JavaScript
+
+## Example Usage
+
+Scripts can be used to:
+
+- track wallet activity
+- analyze blockchain transactions
+- monitor token movements
