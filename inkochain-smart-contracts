@@ -1,0 +1,24 @@
+# INKochain Smart Contracts
+
+Example smart contracts and developer resources for INKochain.
+
+## Contents
+
+contracts/
+examples/
+tests/
+
+## Features
+
+- Example smart contracts
+- Security patterns
+- Deployment guides
+
+## Requirements
+
+- Node.js
+- Hardhat / Foundry (depending on implementation)
+
+## Purpose
+
+Help developers start building on INKochain quickly.
